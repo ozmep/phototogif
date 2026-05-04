@@ -7,3 +7,4 @@ pip install pillow
 python script.py
 
 Enter your folder path and the script will create a gifs folder with the results.
+![Giphy Logo](https://upload.wikimedia.org/wikipedia/commons/8/82/Giphy-logo.svg)
